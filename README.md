@@ -7,6 +7,6 @@ Download this repository in a .zip file
 
 Navigate to the path of your plutonium folder, by default: "%localappdata%/plutonium/storage/iw5"
 
-Drag and drop the contents of the .zip file
+Drag and drop the script folder of the .zip file
 
 Server, perform a map change.
